@@ -75,7 +75,7 @@ header > p{
     padding-right: 10px;
     padding-left: 10px;
     text-shadow: 2px 11px 8px rgb(0 0 0 / 25%); ;
-    padding-bottom: 50px;
+    margin-bottom: 20px;
 }
 
 nav{
@@ -111,10 +111,10 @@ main{
 
 
 main h1 {
-    color:var(--cor5);
+    color:var(--cor2);
     font-family:'android';
     font-weight: normal;
-    background-color: ;
+
 }
 
 main strong {
